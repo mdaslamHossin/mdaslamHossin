@@ -14,11 +14,7 @@
 - 📫 How to reach me **aslam_iit_ju@outlook.com**
 
 <h3 align="left">SKILLS</h3>
-<h4>Language</h4>
-<ul>
-<li style="font-size:24px">Koltin</li>
-<li style="font-size:24px">Java</li>
-</ul>
+<h4>Language</h4> Koltin, Java
 
 <h4>Architecture</h4>
 <ul>
